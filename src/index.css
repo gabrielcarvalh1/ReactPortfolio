@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("barramentos.jpg");
+  h1,h2,p {
+    color:#ffff;
+    
+    
+  }
 }
 
 code {

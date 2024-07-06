@@ -1,0 +1,16 @@
+.divContent {
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 600px;
+    background-color: #212020d5;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    
+}
+
+.textContent {
+    color: #f2f2f2;
+    font-style: bold;
+}
