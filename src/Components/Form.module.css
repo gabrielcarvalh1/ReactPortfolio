@@ -1,18 +1,24 @@
 .divContent {
     padding: 10px;
-    padding-top: 0,5px;
     margin: auto;
     margin-top: 10px;
+    margin-bottom: 10px;
     width: 600px;
-    background-color: #212020d5;
+    background-color: #1FC9C8;
     align-items: center;
     justify-content: center;
     border-radius: 8px;
     color: #f2f2f2;
     font-style: bold;
-       
 }
 
-.divContent > h2 {
-    margin-top: 0;
+.btnForm {
+    margin-left: 10px;
+}
+
+.inputField {
+    height: 24px;
+    border-radius: 8px;
+    border: 5px;
+    margin-left: 5px;
 }

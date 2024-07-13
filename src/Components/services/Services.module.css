@@ -1,0 +1,46 @@
+.divContent {
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 600px;
+    background-color: #212020d5;
+    border-radius: 8px;
+    color: #f2f2f2;
+    font-weight: bold; 
+    display: flex; /* Alinhar os itens dentro do contêiner */
+    flex-direction: column; /* Alinhar os itens na vertical */
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+}
+
+.serviceOptions {
+    display: flex;
+    align-items: flex-start; /* Alinhar ao topo do contêiner */
+    gap: 20px; /* Espaçamento entre as imagens */
+}
+
+.serviceItem {
+    flex: 1; /* Permite que os itens se ajustem conforme necessário */
+}
+
+.options {
+    display: block; /* Garantir que as imagens sejam tratadas como blocos */
+    margin-left: 0; /* Remove qualquer margem esquerda */
+    margin-right: 0; /* Remove qualquer margem direita */
+}
+
+
+button {
+    background-color: #007380;
+    color: #f2f2f2;
+    padding: 4px;
+    border: 2px solid #004650;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+
+button:hover{
+    background-color: #1FC9C8;
+}

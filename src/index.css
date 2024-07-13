@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("barramentos.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   h1,h2,p {
     color:#ffff;
     
